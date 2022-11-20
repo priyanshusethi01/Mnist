@@ -1,1 +1,3 @@
-# Mnist
+#MNIST Handwritten Digit Classification
+
+This is one of the interesting machine learning projects. Deep Learning and neural networks have found use cases in many real-world applications like image recognition, automatic text generation, driverless cars, and much more. However, before you delve into these complex areas of Deep Learning, you should begin with a simple dataset like the MNIST dataset. So, why not use your skills to develop an impressive machine learning project based on MNIST? The MNIST digit classification project is designed to train machines to recognize handwritten digits. Since beginners usually find it challenging to work with image data over flat relational data, the MNIST dataset is best for beginners. In this project, you will use the MNIST datasets to train your ML model using Convolutional Neural Networks (CNNs).
